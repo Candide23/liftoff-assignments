@@ -8,10 +8,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here
-App that can tell me all information that I want about national Park, so I can plan in advance because I visit
+App that can tell me all information that I want about national Park, so I can plan in advance my visit
 
 ### Features
-As an user I want to know when is the best period in the year to visit a national park
+Users can create and authenticate accounts.
+Users can search national parks by: name, state..
+As an user I want to know when is the best time in the year to visit a national park
 As an user I want to know what is the max number of days you can stay
 As an user I want to know the address(es) of the entrance(s)
 As an user I want to know  if they have showers and bathrooms, and if so how many
@@ -23,7 +25,7 @@ Java
 Spring Boot
 MySQL
 Hibernate
-Thymeleaf templates
+ReactJs
 ### What I'll Have to Learn
 I have to learn more about API
 ### Project Tracker
