@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+Upload a .PDF of your presentation here for review.[Candide_MBK_Liftoff.pdf](https://github.com/Candide23/liftoff-assignments/files/9646532/Candide_MBK_Liftoff.pdf)
